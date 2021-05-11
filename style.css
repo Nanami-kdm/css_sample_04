@@ -1,0 +1,47 @@
+body {
+    background-color: mediumseagreen;
+    background-image: url("images/hana.png");
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: moccasin;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    background-image: url("images/kiui.jpeg");
+}
+
+h1{
+  font-weight: lighter;s
+    font-size: 36px;
+}
+
+nav {
+  font-weight: lighter;
+    font-size: 20px;
+    padding: 8px 40px;
+    background-color: salmon;
+    color: white;
+    background-image: url("images/ohana.jpeg");
+}
+
+article {
+  font-size: 15px;
+    padding: 40px;
+    min-height : 400px;
+    background-image: url("images/pine.jpeg");
+}
+
+footer {
+  font-weight: lighter;
+    font-size: 25px;
+    padding: 40px;
+    height: 40px;
+    background-color : steelblue;
+    color: white;
+    background-image: url("images/sima.png");
+}
